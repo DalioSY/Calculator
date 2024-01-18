@@ -16,7 +16,7 @@ Hoje gostaria de compartilhar com vocês um projeto que desenvolvi com a ajuda d
         <li>Use o switch-case para determinar qual operação matemática deve ser realizada.</li>
 </ul>
 
->Calculator: https://daliosy.github.io/calculator/
+>Calculator: https://daliosy.github.io/calculadora/
 
 <h2>Habilidades recentes:</h2>
 
@@ -26,7 +26,7 @@ Aprendi ForEach, Function-Return, Switch-Case no JavaScript.
 
 > Linkedin: https://www.linkedin.com/in/dalio-s-yamada/
 
-> Github: https://github.com/DalioSY/calculator
+> Github: https://github.com/DalioSY/calculadora
 
 
 #HTML #CSS #JavaScript #Programação  #Dev #Desenvolvedor-Web #DesenvolvedorFrontEnd #DesenvolvedorFullStack #TransiçãoDeCarreira #Oportunidades #DisponívelParaTrabalho #Calculadora
