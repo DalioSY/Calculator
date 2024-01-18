@@ -16,7 +16,7 @@ Hoje gostaria de compartilhar com vocês um projeto que desenvolvi com a ajuda d
         <li>Use o switch-case para determinar qual operação matemática deve ser realizada.</li>
 </ul>
 
->Calculator: https://daliosy.github.io/calculadora/
+>Calculadora: https://daliosy.github.io/calculadora/
 
 <h2>Habilidades recentes:</h2>
 
