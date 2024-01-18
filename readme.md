@@ -1,4 +1,4 @@
-<h1>Calculator Js</h1>
+<h1>Calculadora Js</h1>
 
 Mais um projeto <br>
 Hoje gostaria de compartilhar com vocês um projeto que desenvolvi com a ajuda do curso DevClub. Trata-se de uma calculadora simples interativo usando JavaScript.<br>
